@@ -1,14 +1,14 @@
 package com.socops.service;
 
-import com.socops.model.ScavengerHuntItem;
-
-import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.List;
 import java.util.Optional;
 
-import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
+
+import com.socops.model.ScavengerHuntItem;
 
 /**
  * Validates scavenger hunt assembly, item toggling, progress tracking,

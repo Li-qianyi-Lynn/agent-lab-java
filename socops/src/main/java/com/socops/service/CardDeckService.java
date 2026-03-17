@@ -1,12 +1,12 @@
 package com.socops.service;
 
-import com.socops.data.IcebreakerPrompts;
-import com.socops.model.CardDeckCard;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Random;
+
+import com.socops.data.IcebreakerPrompts;
+import com.socops.model.CardDeckCard;
 
 /**
  * Service for managing Card Deck Shuffle game logic.
